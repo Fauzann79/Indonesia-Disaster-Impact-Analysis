@@ -1,6 +1,6 @@
 # 🇮🇩 National Disaster Impact Analysis (2020–2023)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes **28,000+ disaster records across Indonesia** to uncover patterns between disaster frequency, human casualties, and infrastructure damage.
 
@@ -11,13 +11,13 @@ move from **“data reporting” → “decision-making tool.”**
 
 ---
 
-## 🔍 Key Analysis & Strategic Impact
+## Key Analysis & Strategic Impact
 
-### 📈 1. Are Disasters Getting Worse — or Just More Frequent?
+### 1. Are Disasters Getting Worse — or Just More Frequent?
 
 The dashboard shows that while disaster frequency fluctuates, total victims (83K) and infrastructure impact (6M) continue to grow.
 
-👉 This reveals a critical gap:  
+This reveals a critical gap:  
 While disaster frequency fluctuates across the period, total human and infrastructure impacts vary substantially, indicating that event frequency alone does not explain disaster severity.
 
 **Impact:**  
