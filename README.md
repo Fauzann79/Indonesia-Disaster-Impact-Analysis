@@ -100,7 +100,3 @@ The real value of this dashboard:
 
 ---
 
-## 🔗 Resources
-
-- 📊 Dashboard: [Insert Link]  
-- 📄 Documentation: [Insert Link]  
