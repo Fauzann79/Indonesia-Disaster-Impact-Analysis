@@ -13,7 +13,7 @@ move from **“data reporting” → “decision-making tool.”**
 
 ## Key Analysis & Strategic Impact
 
-### 1. Are Disasters Getting Worse — or Just More Frequent?
+### 1. Are Disasters Getting Worse or Just More Frequent?
 
 The dashboard shows that while disaster frequency fluctuates, total victims (83K) and infrastructure impact (6M) continue to grow.
 
