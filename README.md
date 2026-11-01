@@ -25,11 +25,11 @@ This signals that current mitigation strategies are not scaling effectively. Aut
 
 ---
 
-### 🌍 2. Where Should We Actually Focus?
+### 2. Where Should We Actually Focus?
 
 Geospatial analysis highlights clustered hotspots—especially in Jawa Barat (Bogor, Sukabumi) where both frequency and impact are high.
 
-👉 Not all regions need equal attention—risk is concentrated.
+Not all regions need equal attention—risk is concentrated.
 
 **Impact:**  
 Instead of spreading resources thin, this enables pre-positioning logistics in high-risk zones, reducing response time to under 2 hours, and creating more efficient disaster budgeting.
@@ -38,14 +38,14 @@ Instead of spreading resources thin, this enables pre-positioning logistics in h
 
 ---
 
-### ⚖️ 3. Not All Disasters Are Equal
+### 3. Not All Disasters Are Equal
 
 By comparing fatalities vs infrastructure damage:
 
 - Earthquakes → high deaths, lower frequency  
 - Floods & extreme weather → massive economic damage  
 
-👉 This shows two different problem types:  
+This shows two different problem types:  
 human survival risk and economic/system disruption risk.
 
 **Impact:**  
@@ -55,22 +55,22 @@ Budget allocation should be split strategically—prioritizing early warning and
 
 ---
 
-### ⏱️ 4. When Is the System Under Pressure?
+### 4. When Is the System Under Pressure?
 
 Quarterly trends show spikes in disaster events and deaths during Q4–Q1 (monsoon season).
 
-👉 Risk is not constant — it’s seasonal and predictable.
+Risk is not constant — it’s seasonal and predictable.
 
 **Impact:**  
 This enables temporary workforce scaling, increased readiness during peak periods, and faster response within the “golden hour” window.
 
 ---
 
-### 🧱 5. Hidden Structural Problem: Damage vs Intensity
+### 5. Hidden Structural Problem: Damage vs Intensity
 
 Some regions show high infrastructure damage despite relatively low disaster intensity.
 
-👉 Infrastructure damage is not fully explained by disaster intensity alone.
+Infrastructure damage is not fully explained by disaster intensity alone.
 
 **Impact:**  
 This highlights the need to audit and enforce building codes, prioritize retrofitting over rebuilding, and reduce long-term recovery costs significantly.
@@ -79,7 +79,7 @@ This highlights the need to audit and enforce building codes, prioritize retrofi
 
 ---
 
-## 🧠 Final Takeaway
+## Final Takeaway
 
 This analysis shows that disaster management is not just about how often disasters happen, but about where, when, and how severe the impact is.
 
@@ -89,7 +89,7 @@ The real value of this dashboard:
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 - **Tools:** Power BI, Power Query, DAX  
 - **Key Features:**
