@@ -91,7 +91,7 @@ The real value of this dashboard:
 
 ## Technical Implementation
 
-- **Tools:** Power BI, Power Query, DAX  
+- **Tools:** Excel, MySQL, Power BI, Power Query, DAX  
 - **Key Features:**
   - Dynamic YoY calculations  
   - Geospatial hotspot mapping  
